@@ -1,0 +1,433 @@
+titulo: "C# e Orientação a Objetos"
+descricao: "Aprenda C#, a plataforma .NET da Microsoft e os princípios de orientação a objetos. Apostila gratuita do curso da Caelum."
+capitulos: 
+  -
+    titulo: "Como aprender C#"
+    arquivo: 01-como-aprender-c.md
+    codigo: como-aprender-c
+    secoes:
+      -
+        titulo: "O que é realmente importante?"
+        codigo: "o-que-e-realmente-importante"
+      -
+        titulo: "Sobre os exercícios"
+        codigo: "sobre-os-exercicios"
+      -
+        titulo: "Tirando dúvidas e indo além"
+        codigo: "tirando-duvidas-e-indo-alem"
+  -
+    titulo: "O que é C# e .Net"
+    arquivo: 02-o-que-e-c-e-net.md
+    codigo: o-que-e-c-e-net
+    secoes:
+      -
+        titulo: "Um pouco sobre a história do C# e .Net"
+        codigo: "um-pouco-sobre-a-historia-do-c-e-net"
+      -
+        titulo: "Máquina virtual"
+        codigo: "maquina-virtual"
+      -
+        titulo: "Execução do código na CLR e o JIT"
+        codigo: "execucao-do-codigo-na-clr-e-o-jit"
+      -
+        titulo: "O ambiente de desenvolvimento do C# #"
+        codigo: "o-ambiente-de-desenvolvimento-do-c"
+      -
+        titulo: "Executando aplicações sem o Visual Studio"
+        codigo: "executando-aplicacoes-sem-o-visual-studio"
+      -
+        titulo: "O primeiro programa em C# #"
+        codigo: "o-primeiro-programa-em-c"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "O que aconteceu durante a execução?"
+        codigo: "o-que-aconteceu-durante-a-execucao"
+  -
+    titulo: "Variáveis e tipos primitivos"
+    arquivo: 03-variaveis-e-tipos-primitivos.md
+    codigo: variaveis-e-tipos-primitivos
+    secoes:
+      -
+        titulo: "Operações com variáveis"
+        codigo: "operacoes-com-variaveis"
+      -
+        titulo: "Tipos Primitivos"
+        codigo: "tipos-primitivos"
+      -
+        titulo: "Armazenando texto em variáveis"
+        codigo: "armazenando-texto-em-variaveis"
+      -
+        titulo: "Documentando o código através de comentários"
+        codigo: "documentando-o-codigo-atraves-de-comentarios"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Estruturas de controle"
+    arquivo: 04-estruturas-de-controle.md
+    codigo: estruturas-de-controle
+    secoes:
+      -
+        titulo: "Tomando decisões no código"
+        codigo: "tomando-decisoes-no-codigo"
+      -
+        titulo: "Mais sobre condições"
+        codigo: "mais-sobre-condicoes"
+      -
+        titulo: "Exercícios opcionais"
+        codigo: "exercicios-opcionais"
+  -
+    titulo: "Estruturas de repetição"
+    arquivo: 05-estruturas-de-repeticao.md
+    codigo: estruturas-de-repeticao
+    secoes:
+      -
+        titulo: "Repetindo um bloco de código"
+        codigo: "repetindo-um-bloco-de-codigo"
+      -
+        titulo: "Para saber mais do while"
+        codigo: "para-saber-mais-do-while"
+      -
+        titulo: "Para saber mais incremento e decremento"
+        codigo: "para-saber-mais-incremento-e-decremento"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Classes e objetos"
+    arquivo: 06-classes-e-objetos.md
+    codigo: classes-e-objetos
+    secoes:
+      -
+        titulo: "Organizando o código com Objetos"
+        codigo: "organizando-o-codigo-com-objetos"
+      -
+        titulo: "Extraindo comportamentos através de métodos"
+        codigo: "extraindo-comportamentos-atraves-de-metodos"
+      -
+        titulo: "Devolvendo valores de dentro do método"
+        codigo: "devolvendo-valores-de-dentro-do-metodo"
+      -
+        titulo: "Valor padrão dos atributos da classe"
+        codigo: "valor-padrao-dos-atributos-da-classe"
+      -
+        titulo: "Mais um exemplo: Transfere"
+        codigo: "mais-um-exemplo-transfere"
+      -
+        titulo: "Convenção de nomes"
+        codigo: "convencao-de-nomes"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Composição de classes"
+        codigo: "composicao-de-classes"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Encapsulamento e Modificadores de Acesso"
+    arquivo: 07-encapsulamento-e-modificadores-de-acesso.md
+    codigo: encapsulamento-e-modificadores-de-acesso
+    secoes:
+      -
+        titulo: "Encapsulamento"
+        codigo: "encapsulamento"
+      -
+        titulo: "Controlando o acesso com properties"
+        codigo: "controlando-o-acesso-com-properties"
+      -
+        titulo: "Simplificando a declaração de propriedades com Auto-Implemented Properties"
+        codigo: "simplificando-a-declaracao-de-propriedades-com-auto-implemented-properties"
+      -
+        titulo: "Convenção de nome para property"
+        codigo: "convencao-de-nome-para-property"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Para saber mais: Visibilidade Internal"
+        codigo: "para-saber-mais-visibilidade-internal"
+  -
+    titulo: "Construtores"
+    arquivo: 08-construtores.md
+    codigo: construtores
+    secoes:
+      -
+        titulo: "Múltiplos construtores dentro da classe"
+        codigo: "multiplos-construtores-dentro-da-classe"
+      -
+        titulo: "Para saber mais — Initializer"
+        codigo: "para-saber-mais-initializer"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Introdução ao Visual Studio com Windows Form"
+    arquivo: 09-introducao-ao-visual-studio-com-windows-form.md
+    codigo: introducao-ao-visual-studio-com-windows-form
+    secoes:
+      -
+        titulo: "Introdução prática aos atalhos do Visual Studio"
+        codigo: "introducao-pratica-aos-atalhos-do-visual-studio"
+      -
+        titulo: "A classe Convert"
+        codigo: "a-classe-convert"
+      -
+        titulo: "Operações na conta: saque e depósito"
+        codigo: "operacoes-na-conta-saque-e-deposito"
+      -
+        titulo: "Controlando o nome da ação de um botão"
+        codigo: "controlando-o-nome-da-acao-de-um-botao"
+      -
+        titulo: "Renomeando Variáveis, Métodos e Classes com o Visual Studio"
+        codigo: "renomeando-variaveis-metodos-e-classes-com-o-visual-studio"
+      -
+        titulo: "Para saber mais — organizando o formulário com Label e GroupBox"
+        codigo: "para-saber-mais-organizando-o-formulario-com-label-e-groupbox"
+      -
+        titulo: "Resumo dos atalhos do Visual Studio"
+        codigo: "resumo-dos-atalhos-do-visual-studio"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Para saber mais — tipos implícitos e a palavra VAR"
+        codigo: "para-saber-mais-tipos-implicitos-e-a-palavra-var"
+      -
+        titulo: "Exercícios Opcionais"
+        codigo: "exercicios-opcionais"
+  -
+    titulo: "Herança"
+    arquivo: 10-heranca.md
+    codigo: heranca
+    secoes:
+      -
+        titulo: "Reaproveitando código com a Herança"
+        codigo: "reaproveitando-codigo-com-a-heranca"
+      -
+        titulo: "Reaproveitando a implementação da classe base"
+        codigo: "reaproveitando-a-implementacao-da-classe-base"
+      -
+        titulo: "Polimorfismo"
+        codigo: "polimorfismo"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Para saber mais — o que é herdado?"
+        codigo: "para-saber-mais-o-que-e-herdado"
+  -
+    titulo: "Trabalhando com arrays"
+    arquivo: 11-trabalhando-com-arrays.md
+    codigo: trabalhando-com-arrays
+    secoes:
+      -
+        titulo: "Para saber mais — inicialização de Arrays"
+        codigo: "para-saber-mais-inicializacao-de-arrays"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Organizando as contas com o ComboBox"
+        codigo: "organizando-as-contas-com-o-combobox"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Cadastro de novas contas"
+    arquivo: 12-cadastro-de-novas-contas.md
+    codigo: cadastro-de-novas-contas
+    secoes:
+      -
+        titulo: "Utilizando o AdicionaConta no load do formulário"
+        codigo: "utilizando-o-adicionaconta-no-load-do-formulario"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Classes abstratas"
+    arquivo: 13-classes-abstratas.md
+    codigo: classes-abstratas
+    secoes:
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Interfaces"
+    arquivo: 14-interfaces.md
+    codigo: interfaces
+    secoes:
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Métodos e atributos estáticos"
+    arquivo: 15-metodos-e-atributos-estaticos.md
+    codigo: metodos-e-atributos-estaticos
+    secoes:
+      -
+        titulo: "Exercícios Opcionais"
+        codigo: "exercicios-opcionais"
+      -
+        titulo: "Para saber mais classes estáticas"
+        codigo: "para-saber-mais-classes-estaticas"
+  -
+    titulo: "Exceções"
+    arquivo: 16-excecoes.md
+    codigo: excecoes
+    secoes:
+      -
+        titulo: "Retorno do método para controlar erros"
+        codigo: "retorno-do-metodo-para-controlar-erros"
+      -
+        titulo: "Controlando erros com exceções"
+        codigo: "controlando-erros-com-excecoes"
+      -
+        titulo: "Tratando múltiplas exceções"
+        codigo: "tratando-multiplas-excecoes"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Namespaces"
+    arquivo: 17-namespaces.md
+    codigo: namespaces
+    secoes:
+      -
+        titulo: "Para saber mais - Declaração de namespace aninhados"
+        codigo: "para-saber-mais-declaracao-de-namespace-aninhados"
+      -
+        titulo: "Para saber mais - Alias para namespaces"
+        codigo: "para-saber-mais-alias-para-namespaces"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Classe Object"
+    arquivo: 18-classe-object.md
+    codigo: classe-object
+    secoes:
+      -
+        titulo: "Implementando a comparação de objetos"
+        codigo: "implementando-a-comparacao-de-objetos"
+      -
+        titulo: "Melhorando a implementação do Equals com o is"
+        codigo: "melhorando-a-implementacao-do-equals-com-o-is"
+      -
+        titulo: "Integrando o Object com o ComboBox"
+        codigo: "integrando-o-object-com-o-combobox"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Trabalhando com listas"
+    arquivo: 19-trabalhando-com-listas.md
+    codigo: trabalhando-com-listas
+    secoes:
+      -
+        titulo: "Facilitando o trabalho com coleções através das listas"
+        codigo: "facilitando-o-trabalho-com-colecoes-atraves-das-listas"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Lidando com conjuntos"
+    arquivo: 20-lidando-com-conjuntos.md
+    codigo: lidando-com-conjuntos
+    secoes:
+      -
+        titulo: "Otimizando a busca através de conjuntos"
+        codigo: "otimizando-a-busca-atraves-de-conjuntos"
+      -
+        titulo: "Conjuntos Ordenados com o SortedSet"
+        codigo: "conjuntos-ordenados-com-o-sortedset"
+      -
+        titulo: "A interface de todos os conjuntos"
+        codigo: "a-interface-de-todos-os-conjuntos"
+      -
+        titulo: "Comparação entre listas e conjuntos"
+        codigo: "comparacao-entre-listas-e-conjuntos"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Buscas rápidas utilizando Dicionários"
+        codigo: "buscas-rapidas-utilizando-dicionarios"
+      -
+        titulo: "Iterando no dicionário"
+        codigo: "iterando-no-dicionario"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "LINQ e Lambda"
+    arquivo: 21-linq-e-lambda.md
+    codigo: linq-e-lambda
+    secoes:
+      -
+        titulo: "Filtros utilizando o LINQ"
+        codigo: "filtros-utilizando-o-linq"
+      -
+        titulo: "Simplificando a declaração do lambda"
+        codigo: "simplificando-a-declaracao-do-lambda"
+      -
+        titulo: "Outros métodos do LINQ"
+        codigo: "outros-metodos-do-linq"
+      -
+        titulo: "Utilizando o LINQ com outros tipos"
+        codigo: "utilizando-o-linq-com-outros-tipos"
+      -
+        titulo: "Melhorando as buscas utilizando a sintaxe de queries"
+        codigo: "melhorando-as-buscas-utilizando-a-sintaxe-de-queries"
+      -
+        titulo: "Para saber mais — projeções e objetos anônimos"
+        codigo: "para-saber-mais-projecoes-e-objetos-anonimos"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Ordenando coleções com LINQ"
+        codigo: "ordenando-colecoes-com-linq"
+      -
+        titulo: "Exercícios - Ordenação"
+        codigo: "exercicios-ordenacao"
+  -
+    titulo: "System.IO"
+    arquivo: 22-system-io.md
+    codigo: system-io
+    secoes:
+      -
+        titulo: "Leitura de arquivos"
+        codigo: "leitura-de-arquivos"
+      -
+        titulo: "Escrevendo em arquivos"
+        codigo: "escrevendo-em-arquivos"
+      -
+        titulo: "Gerenciando os arquivos com o using"
+        codigo: "gerenciando-os-arquivos-com-o-using"
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+      -
+        titulo: "Para saber mais — onde colocar os arquivos da aplicação"
+        codigo: "para-saber-mais-onde-colocar-os-arquivos-da-aplicacao"
+  -
+    titulo: "Manipulação de strings"
+    arquivo: 23-manipulacao-de-strings.md
+    codigo: manipulacao-de-strings
+    secoes:
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+  -
+    titulo: "Apêndice — estendendo comportamentos através de métodos extras"
+    arquivo: 24-apendice-—-estendendo-comportamentos-atraves-de-metodos-extras.md
+    codigo: apendice-—-estendendo-comportamentos-atraves-de-metodos-extras
+    secoes:
+      -
+        titulo: "Exercícios"
+        codigo: "exercicios"
+
